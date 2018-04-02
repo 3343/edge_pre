@@ -5,6 +5,7 @@ To the extent possible under law, [Alexander Nikolas Breuer](http://dial3343.org
 * `line_2_gather.csv`
 * `line_2_scatter.csv`
 * `line_2_scattersurf.csv`
+* `line_2_scdgad.csv`
 * `line_2_scsfsc.csv`
 * `line_2_scsv.csv`
 * `line_2_sctysf.csv`
